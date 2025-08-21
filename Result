@@ -13,7 +13,7 @@ Evaluation Metrics:
 - F1-score (Positive): 96.42%
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/Confusion Matrix.jpg)
 
 ### Classification Report
-![Classification Report](images/accuracy_loss.png)
+![Classification Report](images/Classification Report.jpg)
