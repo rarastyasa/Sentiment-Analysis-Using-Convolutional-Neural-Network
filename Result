@@ -1,0 +1,19 @@
+## 📊 Model Results
+
+📊 Research Results:
+- Training Accuracy: 93.39%, Loss: 0.1647
+- Testing Accuracy: 93.45%, Loss: 0.1958
+
+Evaluation Metrics:
+- Precision (Negative): 75.92%
+- Recall (Negative): 51.89%
+- F1-score (Negative): 61.65%
+- Precision (Positive): 94.75%
+- Recall (Positive): 98.14%
+- F1-score (Positive): 96.42%
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Classification Report
+![Classification Report](images/accuracy_loss.png)
