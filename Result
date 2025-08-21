@@ -11,9 +11,3 @@ Evaluation Metrics:
 - Precision (Positive): 94.75%
 - Recall (Positive): 98.14%
 - F1-score (Positive): 96.42%
-
-### Confusion Matrix
-![Confusion Matrix](images/Confusion Matrix.jpg)
-
-### Classification Report
-![Classification Report](images/Classification Report.jpg)
