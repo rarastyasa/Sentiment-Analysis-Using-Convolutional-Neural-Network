@@ -1,5 +1,5 @@
 # Sentiment-Analysis-Using-Convolutional-Neural-Network
-A Convolutional Neural Network (CNN)-based sentiment analysis project on the Solo Destination application, utilizing data from X, Google Play Store, and ULAS to support service quality improvement.
+A Convolutional Neural Network (CNN)-based sentiment analysis project on the Solo Destination application, utilizing data from X, Google Play Store, and ULAS to support service quality improvement. The model achieved 93.39% accuracy (loss: 0.1647) on training and 93.45% accuracy (loss: 0.1958) on testing.
 
 ---
 
